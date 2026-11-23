@@ -1,4 +1,7 @@
-*.html
-outputs/
-*.log
-apikey.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+output/
+*.sqlite
+*.sqlite-journal
