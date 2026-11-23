@@ -101,3 +101,8 @@ toolforge webservice python3.13 shell
 source ~/pyvenv/bin/activate
 python3 ~/spokenreport/generatereport.py
 exit
+```
+License
+MIT License.
+Source code and issue tracking: https://github.com/xenotropic/spokenreport
+
